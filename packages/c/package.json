@@ -1,0 +1,15 @@
+{
+  "name": "@madarche/c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Tests of plugin c\""
+  },
+  "author": "Marc-Aurèle DARCHE (https://github.com/madarche)",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
