@@ -1,7 +1,7 @@
 'use strict'
 
 function core() {
-    console.log('This is core and something changed 3')
+    console.log('This is core and something changed 4')
 }
 
 module.exports = {
