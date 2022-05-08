@@ -8,6 +8,7 @@
       "conventionalCommits": true
     },
     "version": {
+      "push": false,
       "conventionalCommits": true,
       "noPrivate": true,
       "message": "chore(release): publish new version %v",
