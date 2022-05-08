@@ -1,15 +1,21 @@
 {
   "version": "2.0.6",
+  "loglevel": "info",
+  "npmClient": "npm",
+  "useWorkspaces": true,
   "command": {
     "publish": {
       "conventionalCommits": true
     },
     "version": {
       "conventionalCommits": true,
-      "createRelease": "github",
+      "gitDryRun": false,
       "noPrivate": true,
       "message": "chore(release): publish new version %v",
       "changelogHeaderMessage": "### Automate your Workspace Versions, Changelogs & Publish with [Lerna-Lite](https://github.com/ghiscoding/lerna-lite) 🚀"
+    },
+    "run": {
+      "cmdDryRun": false
     }
   }
 }
