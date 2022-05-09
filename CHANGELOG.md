@@ -4,6 +4,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.11](https://github.com/madarche/npm-workspaces-example/compare/v2.0.10...v2.0.11) (2022-05-09)
+
+### Bug Fixes
+
+* Change string again ([3137bfa](https://github.com/madarche/npm-workspaces-example/commit/3137bfae06f4ab3b31ffc135925317b1faa6c4be))
+
 ## [2.0.10](https://github.com/madarche/npm-workspaces-example/compare/v2.0.9...v2.0.10) (2022-05-09)
 
 ### Bug Fixes
