@@ -9,13 +9,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * Change string ([3cc7685](https://github.com/madarche/npm-workspaces-example/commit/3cc76855a6422ef36a1312bced6bba937317551c))
 
-# Change Log
-
-All notable changes to this project will be documented in this file.
-
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
-
 ## [6.2.3] - 2022-05-07
 
 ### Fixed
