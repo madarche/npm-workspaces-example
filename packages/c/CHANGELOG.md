@@ -1,10 +1,20 @@
 # Change Log
 
 All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.0.10](https://github.com/madarche/npm-workspaces-example/compare/v2.0.9...v2.0.10) (2022-05-09)
+
+### Bug Fixes
+
+* Change string ([3cc7685](https://github.com/madarche/npm-workspaces-example/commit/3cc76855a6422ef36a1312bced6bba937317551c))
+
+# Change Log
+
+All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
-
 
 ## [6.2.3] - 2022-05-07
 
@@ -13,7 +23,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - More more complete fix for prototype pollution vulnerability first addressed
   in #384 (Marc-Aurèle Darche @madarche, Snyk Security team)
 
-
 ## [6.2.2] - 2022-03-27
 
 ### Fixed
@@ -21,13 +30,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - More complete fix for prototype pollution vulnerability first addressed in
   #384 (Marc-Aurèle Darche @madarche)
 
-
 ## [6.2.1] - 2021-10-20
 
 ### Fixed
 
 - Fix misspelling of the word optional in the error message #397 (Dan Allen @mojavelinux))
-
 
 ## [6.2.0] - 2021-05-21
 
@@ -37,20 +44,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Update dependency: parser `^18.1.3` → `^20.2.7` ([#390](https://github.com/mozilla/node-convict/pull/390))
 - Update dependency: moment `^2.24.0` → `^2.29.1` ([#390](https://github.com/mozilla/node-convict/pull/390))
 
-
 ## [6.1.0] - 2021-05-03
 
 ### Added
 
 - Add new "nullable" option to allow "null" additionally to any format #386 (maxwrlr)
 
-
 ## [6.0.1] - 2021-03-11
 
 ### Fixed
 
 - Fix prototype pollution vulnerability #384 (arjunshibu, Jamie Slome)
-
 
 ## [6.0.0] - 2020-05-02
 ### Changed
@@ -71,7 +75,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Fix multiple vulns by upgrading some deps
   (Cyrille Verrier @cyrille-arundo, Marc-Aurèle Darche @madarche)
-
 
 ## [5.2.0] - 2019-10-12
 ### Added
