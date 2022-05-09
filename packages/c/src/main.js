@@ -2,7 +2,7 @@ const validator = require('validator');
 
 const a = require('@madarche/a')
 
-console.log('This is plugin c and something changed there too 2')
+console.log('This is plugin c and something changed there too 3')
 
 a.core()
 
